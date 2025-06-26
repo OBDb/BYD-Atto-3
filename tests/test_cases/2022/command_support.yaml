@@ -1,6 +1,6 @@
 model_year: 2022
 supported_commands_by_ecu:
-  7E0:
+  "7E0":
   - 010D:VSS
-  7E2:
+  "7E2":
   - 010D:VSS
