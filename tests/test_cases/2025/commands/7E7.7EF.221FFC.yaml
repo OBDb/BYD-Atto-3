@@ -1,0 +1,6 @@
+command_id: 7E7.7EF.221FFC
+test_cases:
+- expected_values:
+    BYD_HVBAT_PACK_FACTORY: 145.38
+    BYD_HVBAT_PACK_NOMINAL: 92.2
+  response: 7EF07621FFC0424CA38

@@ -1,0 +1,11 @@
+command_id: 7E7.7EF.22016C
+test_cases:
+- expected_values:
+    BYD_PACK_4_LOWEST_V_CELL: 8
+  response: 7EF0462016C07
+- expected_values:
+    BYD_PACK_4_LOWEST_V_CELL: 10
+  response: 7EF0462016C09
+- expected_values:
+    BYD_PACK_4_LOWEST_V_CELL: 14
+  response: 7EF0462016C0D

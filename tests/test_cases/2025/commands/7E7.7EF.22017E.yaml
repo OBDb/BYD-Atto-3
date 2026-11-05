@@ -1,0 +1,8 @@
+command_id: 7E7.7EF.22017E
+test_cases:
+- expected_values:
+    BYD_6_PACK_8_HIGHEST_V: 2
+  response: 7EF0462017E01
+- expected_values:
+    BYD_6_PACK_8_HIGHEST_V: 3
+  response: 7EF0462017E02

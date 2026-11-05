@@ -1,0 +1,6 @@
+command_id: 7E7.7EF.221FFE
+test_cases:
+- expected_values:
+    BYD_HVBAT_PACK_FACTORY_CAP: 152
+    BYD_HVBAT_PACK_FACTORY_ST_CHG: 66
+  response: 7EF07621FFEC819603B

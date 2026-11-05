@@ -1,0 +1,5 @@
+command_id: '783.220003'
+test_cases:
+- expected_values:
+    BYD_STEER_WHL_ANG: -254.4
+  response: 78B05620003F610

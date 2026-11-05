@@ -1,0 +1,10 @@
+command_id: '782.222001'
+test_cases:
+- expected_values:
+    BYD_FL_WHL_SPD: 0
+    BYD_FR_WHL_SPD: 0
+    BYD_RL_WHL_SPD: 0
+    BYD_RR_WHL_SPD: 0
+  response: |-
+    78A100B622001000000
+    78A210000000000AAAA

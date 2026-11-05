@@ -1,0 +1,5 @@
+command_id: 762.22000D
+test_cases:
+- expected_values:
+    BYD_12V_BAT_CELL_1: 3.3
+  response: 76A0462000D21

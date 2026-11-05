@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.22000A
+test_cases:
+- expected_values:
+    BYD_MAX_ALLOWED_CHG: 92.8
+  response: 7EF0562000AA003

@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.220011
+test_cases:
+- expected_values:
+    BYD_ACCUMULATED_CHG_ENERGY: 1672
+  response: 7EF056200118806

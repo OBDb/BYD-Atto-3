@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.220012
+test_cases:
+- expected_values:
+    BYD_ACCUMULATED_DCHG_ENERGY: 1622
+  response: 7EF056200125606
