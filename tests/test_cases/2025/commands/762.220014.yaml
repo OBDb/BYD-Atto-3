@@ -1,0 +1,5 @@
+command_id: '762.220014'
+test_cases:
+- expected_values:
+    BYD_12V_BAT_MOS_T: 60
+  response: 76A0462001464

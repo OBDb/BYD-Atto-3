@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.22002E
+test_cases:
+- expected_values:
+    BYD_LOWEST_T_CELL: 6
+  response: 7EF0462002E05

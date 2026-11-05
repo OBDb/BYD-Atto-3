@@ -1,0 +1,8 @@
+command_id: '762.220013'
+test_cases:
+- expected_values:
+    BYD_12V_BAT_NEGATIVE_T: 57
+  response: 76A0462001361
+- expected_values:
+    BYD_12V_BAT_NEGATIVE_T: 58
+  response: 76A0462001362

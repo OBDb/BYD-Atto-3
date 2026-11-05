@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.22000B
+test_cases:
+- expected_values:
+    BYD_CHG_TIMES: 99
+  response: 7EF0562000B6300

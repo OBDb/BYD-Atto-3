@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.220004
+test_cases:
+- expected_values:
+    BYD_TIMES_OFF_FULL_POWER: 30
+  response: 7EF056200041E00

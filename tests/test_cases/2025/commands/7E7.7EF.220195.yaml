@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.220195
+test_cases:
+- expected_values:
+    BYD_PACK_14_LOWEST_V_CELL: 3.324
+  response: 7EF05620195FC0C

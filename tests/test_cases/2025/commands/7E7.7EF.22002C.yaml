@@ -1,0 +1,17 @@
+command_id: 7E7.7EF.22002C
+test_cases:
+- expected_values:
+    BYD_HIGHEST_V_CELL: 2
+  response: 7EF0462002C01
+- expected_values:
+    BYD_HIGHEST_V_CELL: 3
+  response: 7EF0462002C02
+- expected_values:
+    BYD_HIGHEST_V_CELL: 5
+  response: 7EF0462002C04
+- expected_values:
+    BYD_HIGHEST_V_CELL: 96
+  response: 7EF0462002C5F
+- expected_values:
+    BYD_HIGHEST_V_CELL: 101
+  response: 7EF0462002C64

@@ -1,0 +1,11 @@
+command_id: 7E7.7EF.22018C
+test_cases:
+- expected_values:
+    BYD_PACK_12_LOWEST_V: 1
+  response: 7EF0462018C00
+- expected_values:
+    BYD_PACK_12_LOWEST_V: 10
+  response: 7EF0462018C09
+- expected_values:
+    BYD_PACK_12_LOWEST_V: 14
+  response: 7EF0462018C0D

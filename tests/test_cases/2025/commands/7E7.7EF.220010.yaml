@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.220010
+test_cases:
+- expected_values:
+    BYD_ACCUMULATED_DCHG: 4024
+  response: 7EF06620010B80F00

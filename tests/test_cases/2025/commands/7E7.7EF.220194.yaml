@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.220194
+test_cases:
+- expected_values:
+    BYD_PACK_14_LOWEST_V: 1
+  response: 7EF0462019400
+- expected_values:
+    BYD_PACK_14_LOWEST_V: 3
+  response: 7EF0462019402
+- expected_values:
+    BYD_PACK_14_LOWEST_V: 7
+  response: 7EF0462019406
+- expected_values:
+    BYD_PACK_14_LOWEST_V: 14
+  response: 7EF046201940D
