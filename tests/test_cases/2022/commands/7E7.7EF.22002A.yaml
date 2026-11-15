@@ -1,0 +1,8 @@
+command_id: 7E7.7EF.22002A
+test_cases:
+- expected_values:
+    BYD_LOWEST_V_CELL: 2
+  response: 7EF0462002A01
+- expected_values:
+    BYD_LOWEST_V_CELL: 103
+  response: 7EF0462002A66

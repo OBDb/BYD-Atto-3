@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.22000F
+test_cases:
+- expected_values:
+    BYD_ACCUMULATED_CHG: 24915
+  response: 7EF0662000F536100
+- expected_values:
+    BYD_ACCUMULATED_CHG: 24916
+  response: 7EF0662000F546100
+- expected_values:
+    BYD_ACCUMULATED_CHG: 24917
+  response: 7EF0662000F556100
+- expected_values:
+    BYD_ACCUMULATED_CHG: 24918
+  response: 7EF0662000F566100

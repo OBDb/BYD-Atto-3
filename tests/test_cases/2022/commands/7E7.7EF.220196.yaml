@@ -1,0 +1,29 @@
+command_id: 7E7.7EF.220196
+test_cases:
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 4
+  response: 7EF0462019603
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 7
+  response: 7EF0462019606
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 8
+  response: 7EF0462019607
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 9
+  response: 7EF0462019608
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 10
+  response: 7EF0462019609
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 11
+  response: 7EF046201960A
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 12
+  response: 7EF046201960B
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 13
+  response: 7EF046201960C
+- expected_values:
+    BYD_PACK_14_HIGHEST_V: 14
+  response: 7EF046201960D
