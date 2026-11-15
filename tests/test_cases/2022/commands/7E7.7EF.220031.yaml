@@ -1,0 +1,11 @@
+command_id: 7E7.7EF.220031
+test_cases:
+- expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 21
+  response: 7EF046200313D
+- expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 22
+  response: 7EF046200313E
+- expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 23
+  response: 7EF046200313F

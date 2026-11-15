@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.220032
+test_cases:
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 20
+  response: 7EF046200323C
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 21
+  response: 7EF046200323D
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 22
+  response: 7EF046200323E
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 23
+  response: 7EF046200323F

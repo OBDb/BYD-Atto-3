@@ -1,0 +1,14 @@
+command_id: 7E7.7EF.22002F
+test_cases:
+- expected_values:
+    BYD_LOWEST_T_CELL_7E7: 20
+  response: 7EF0462002F3C
+- expected_values:
+    BYD_LOWEST_T_CELL_7E7: 21
+  response: 7EF0462002F3D
+- expected_values:
+    BYD_LOWEST_T_CELL_7E7: 22
+  response: 7EF0462002F3E
+- expected_values:
+    BYD_LOWEST_T_CELL_7E7: 23
+  response: 7EF0462002F3F

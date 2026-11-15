@@ -1,0 +1,5 @@
+command_id: 7E7.7EF.22018A
+test_cases:
+- expected_values:
+    BYD_PACK_11_HIGHEST_V: 1
+  response: 7EF0462018A00
