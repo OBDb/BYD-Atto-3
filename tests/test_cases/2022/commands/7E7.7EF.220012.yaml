@@ -24,3 +24,6 @@ test_cases:
 - expected_values:
     BYD_ACCUMULATED_DCHG_ENERGY: 10153
   response: 7EF05620012A927
+- expected_values:
+    BYD_ACCUMULATED_DCHG_ENERGY: 10160
+  response: 7EF05620012B027

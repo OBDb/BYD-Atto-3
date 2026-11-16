@@ -4,6 +4,9 @@ test_cases:
     BYD_MAX_ALLOWED_DCHG: 284.9
   response: 7EF0562000E210B
 - expected_values:
+    BYD_MAX_ALLOWED_DCHG: 285
+  response: 7EF0562000E220B
+- expected_values:
     BYD_MAX_ALLOWED_DCHG: 285.1
   response: 7EF0562000E230B
 - expected_values:
