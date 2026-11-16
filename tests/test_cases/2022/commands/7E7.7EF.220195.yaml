@@ -1,14 +1,14 @@
 command_id: 7E7.7EF.220195
 test_cases:
 - expected_values:
-    BYD_PACK_14_LOWEST_V_CELL: 3.079
-  response: 7EF05620195070C
+    BYD_PACK_14_LOWEST_V_CELL: 3.076
+  response: 7EF05620195040C
 - expected_values:
-    BYD_PACK_14_LOWEST_V_CELL: 3.371
-  response: 7EF056201952B0D
+    BYD_PACK_14_LOWEST_V_CELL: 3.349
+  response: 7EF05620195150D
 - expected_values:
-    BYD_PACK_14_LOWEST_V_CELL: 3.039
-  response: 7EF05620195DF0B
+    BYD_PACK_14_LOWEST_V_CELL: 2.916
+  response: 7EF05620195640B
 - expected_values:
     BYD_PACK_14_LOWEST_V_CELL: 3.07
   response: 7EF05620195FE0B

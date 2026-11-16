@@ -1,8 +1,8 @@
 command_id: 7E7.7EF.220008
 test_cases:
 - expected_values:
-    BYD_BAT_TOT_V: 371
-  response: 7EF056200087301
+    BYD_BAT_TOT_V: 368
+  response: 7EF056200087001
 - expected_values:
-    BYD_BAT_TOT_V: 421
-  response: 7EF05620008A501
+    BYD_BAT_TOT_V: 431
+  response: 7EF05620008AF01

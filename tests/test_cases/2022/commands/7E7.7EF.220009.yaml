@@ -4,11 +4,11 @@ test_cases:
     BYD_BAT_TOT_CURRENT: 12.4
   response: 7EF056200090414
 - expected_values:
-    BYD_BAT_TOT_CURRENT: 195.4
-  response: 7EF056200092A1B
+    BYD_BAT_TOT_CURRENT: -178
+  response: 7EF05620009940C
 - expected_values:
-    BYD_BAT_TOT_CURRENT: -66.1
-  response: 7EF05620009F310
+    BYD_BAT_TOT_CURRENT: 259.9
+  response: 7EF05620009AF1D
 - expected_values:
     BYD_BAT_TOT_CURRENT: 11.8
   response: 7EF05620009FE13
