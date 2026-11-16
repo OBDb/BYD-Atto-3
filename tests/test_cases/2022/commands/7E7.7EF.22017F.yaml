@@ -4,11 +4,11 @@ test_cases:
     BYD_6_PACK_8_HIGHEST_V_CELL: 3.073
   response: 7EF0562017F010C
 - expected_values:
-    BYD_6_PACK_8_HIGHEST_V_CELL: 3.343
-  response: 7EF0562017F0F0D
+    BYD_6_PACK_8_HIGHEST_V_CELL: 3.33
+  response: 7EF0562017F020D
 - expected_values:
     BYD_6_PACK_8_HIGHEST_V_CELL: 2.984
   response: 7EF0562017FA80B
 - expected_values:
-    BYD_6_PACK_8_HIGHEST_V_CELL: 3.323
-  response: 7EF0562017FFB0C
+    BYD_6_PACK_8_HIGHEST_V_CELL: 3.071
+  response: 7EF0562017FFF0B

@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     BYD_ACCUMULATED_CHG_ENERGY: 10049
   response: 7EF056200114127
+- expected_values:
+    BYD_ACCUMULATED_CHG_ENERGY: 10055
+  response: 7EF056200114727
+- expected_values:
+    BYD_ACCUMULATED_CHG_ENERGY: 10056
+  response: 7EF056200114827
