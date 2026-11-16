@@ -1,6 +1,21 @@
 command_id: 7E7.7EF.22000E
 test_cases:
 - expected_values:
+    BYD_MAX_ALLOWED_DCHG: 284.4
+  response: 7EF0562000E1C0B
+- expected_values:
+    BYD_MAX_ALLOWED_DCHG: 284.5
+  response: 7EF0562000E1D0B
+- expected_values:
+    BYD_MAX_ALLOWED_DCHG: 284.6
+  response: 7EF0562000E1E0B
+- expected_values:
+    BYD_MAX_ALLOWED_DCHG: 284.7
+  response: 7EF0562000E1F0B
+- expected_values:
+    BYD_MAX_ALLOWED_DCHG: 284.8
+  response: 7EF0562000E200B
+- expected_values:
     BYD_MAX_ALLOWED_DCHG: 284.9
   response: 7EF0562000E210B
 - expected_values:

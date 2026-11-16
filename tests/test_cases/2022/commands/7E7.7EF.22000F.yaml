@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     BYD_ACCUMULATED_CHG: 24921
   response: 7EF0662000F596100
+- expected_values:
+    BYD_ACCUMULATED_CHG: 24922
+  response: 7EF0662000F5A6100

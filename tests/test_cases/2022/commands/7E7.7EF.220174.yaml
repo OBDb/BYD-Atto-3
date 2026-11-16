@@ -10,6 +10,9 @@ test_cases:
     BYD_PACK_6_LOWEST_V_CELL: 3
   response: 7EF0462017402
 - expected_values:
+    BYD_PACK_6_LOWEST_V_CELL: 5
+  response: 7EF0462017404
+- expected_values:
     BYD_PACK_6_LOWEST_V_CELL: 6
   response: 7EF0462017405
 - expected_values:
