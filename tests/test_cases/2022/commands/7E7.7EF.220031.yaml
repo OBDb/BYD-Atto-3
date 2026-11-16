@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     BYD_HIGHEST_T_CELL_7E7: 23
   response: 7EF046200313F
+- expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 24
+  response: 7EF0462003140
+- expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 25
+  response: 7EF0462003141
+- expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 26
+  response: 7EF0462003142

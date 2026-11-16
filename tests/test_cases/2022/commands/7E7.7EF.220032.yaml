@@ -12,3 +12,12 @@ test_cases:
 - expected_values:
     BYD_BAT_PACK_AVG_T: 23
   response: 7EF046200323F
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 24
+  response: 7EF0462003240
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 25
+  response: 7EF0462003241
+- expected_values:
+    BYD_BAT_PACK_AVG_T: 26
+  response: 7EF0462003242

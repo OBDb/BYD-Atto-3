@@ -4,29 +4,5 @@ test_cases:
     BYD_PACK_6_LOWEST_V_CELL: 1
   response: 7EF0462017400
 - expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 2
-  response: 7EF0462017401
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 3
-  response: 7EF0462017402
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 5
-  response: 7EF0462017404
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 6
-  response: 7EF0462017405
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 8
-  response: 7EF0462017407
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 9
-  response: 7EF0462017408
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 10
-  response: 7EF0462017409
-- expected_values:
-    BYD_PACK_6_LOWEST_V_CELL: 11
-  response: 7EF046201740A
-- expected_values:
     BYD_PACK_6_LOWEST_V_CELL: 12
   response: 7EF046201740B

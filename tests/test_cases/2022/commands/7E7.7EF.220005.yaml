@@ -1,8 +1,8 @@
 command_id: 7E7.7EF.220005
 test_cases:
 - expected_values:
-    BYD_HVBAT_ST_CHG: 36
-  response: 7EF0462000524
+    BYD_HVBAT_ST_CHG: 28
+  response: 7EF046200051C
 - expected_values:
     BYD_HVBAT_ST_CHG: 61
   response: 7EF046200053D

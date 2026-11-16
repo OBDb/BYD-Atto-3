@@ -4,5 +4,5 @@ test_cases:
     BYD_6_PACK_10_HIGHEST_V: 1
   response: 7EF0462018600
 - expected_values:
-    BYD_6_PACK_10_HIGHEST_V: 11
-  response: 7EF046201860A
+    BYD_6_PACK_10_HIGHEST_V: 12
+  response: 7EF046201860B

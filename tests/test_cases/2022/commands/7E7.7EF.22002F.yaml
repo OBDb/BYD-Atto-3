@@ -15,3 +15,9 @@ test_cases:
 - expected_values:
     BYD_LOWEST_T_CELL_7E7: 23
   response: 7EF0462002F3F
+- expected_values:
+    BYD_LOWEST_T_CELL_7E7: 24
+  response: 7EF0462002F40
+- expected_values:
+    BYD_LOWEST_T_CELL_7E7: 25
+  response: 7EF0462002F41
