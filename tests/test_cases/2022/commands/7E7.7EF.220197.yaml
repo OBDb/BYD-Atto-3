@@ -4,8 +4,8 @@ test_cases:
     BYD_PACK_14_HIGHEST_V_CELL: 3.328
   response: 7EF05620197000D
 - expected_values:
-    BYD_PACK_14_HIGHEST_V_CELL: 3.015
-  response: 7EF05620197C70B
+    BYD_PACK_14_HIGHEST_V_CELL: 2.867
+  response: 7EF05620197330B
 - expected_values:
-    BYD_PACK_14_HIGHEST_V_CELL: 3.305
-  response: 7EF05620197E90C
+    BYD_PACK_14_HIGHEST_V_CELL: 3.313
+  response: 7EF05620197F10C
