@@ -4,6 +4,9 @@ test_cases:
     BYD_PACK_12_HIGHEST_V: 1
   response: 7EF0462018E00
 - expected_values:
+    BYD_PACK_12_HIGHEST_V: 2
+  response: 7EF0462018E01
+- expected_values:
     BYD_PACK_12_HIGHEST_V: 4
   response: 7EF0462018E03
 - expected_values:

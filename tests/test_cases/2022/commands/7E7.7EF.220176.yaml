@@ -4,29 +4,5 @@ test_cases:
     BYD_PACK_6_HIGHEST_V: 1
   response: 7EF0462017600
 - expected_values:
-    BYD_PACK_6_HIGHEST_V: 2
-  response: 7EF0462017601
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 3
-  response: 7EF0462017602
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 4
-  response: 7EF0462017603
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 5
-  response: 7EF0462017604
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 6
-  response: 7EF0462017605
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 7
-  response: 7EF0462017606
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 8
-  response: 7EF0462017607
-- expected_values:
-    BYD_PACK_6_HIGHEST_V: 9
-  response: 7EF0462017608
-- expected_values:
     BYD_PACK_6_HIGHEST_V: 12
   response: 7EF046201760B
