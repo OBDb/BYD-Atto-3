@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BYD_CHG_TIMES: 486
   response: 7EF0562000BE601
+- expected_values:
+    BYD_CHG_TIMES: 487
+  response: 7EF0562000BE701
