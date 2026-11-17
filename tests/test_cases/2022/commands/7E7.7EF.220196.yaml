@@ -1,6 +1,9 @@
 command_id: 7E7.7EF.220196
 test_cases:
 - expected_values:
+    BYD_PACK_14_HIGHEST_V: 3
+  response: 7EF0462019602
+- expected_values:
     BYD_PACK_14_HIGHEST_V: 4
   response: 7EF0462019603
 - expected_values:

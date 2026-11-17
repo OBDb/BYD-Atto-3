@@ -7,8 +7,8 @@ test_cases:
     BYD_BAT_TOT_CURRENT: -178
   response: 7EF05620009940C
 - expected_values:
-    BYD_BAT_TOT_CURRENT: 259.9
-  response: 7EF05620009AF1D
+    BYD_BAT_TOT_CURRENT: 365.6
+  response: 7EF05620009D021
 - expected_values:
     BYD_BAT_TOT_CURRENT: 11.8
   response: 7EF05620009FE13

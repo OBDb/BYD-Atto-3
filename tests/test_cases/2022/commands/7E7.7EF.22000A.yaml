@@ -4,8 +4,8 @@ test_cases:
     BYD_MAX_ALLOWED_CHG: 179.4
   response: 7EF0562000A0207
 - expected_values:
-    BYD_MAX_ALLOWED_CHG: 155
-  response: 7EF0562000A0E06
+    BYD_MAX_ALLOWED_CHG: 154.7
+  response: 7EF0562000A0B06
 - expected_values:
     BYD_MAX_ALLOWED_CHG: 178.9
   response: 7EF0562000AFD06
