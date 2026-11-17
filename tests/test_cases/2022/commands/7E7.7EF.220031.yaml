@@ -1,6 +1,9 @@
 command_id: 7E7.7EF.220031
 test_cases:
 - expected_values:
+    BYD_HIGHEST_T_CELL_7E7: 19
+  response: 7EF046200313B
+- expected_values:
     BYD_HIGHEST_T_CELL_7E7: 20
   response: 7EF046200313C
 - expected_values:

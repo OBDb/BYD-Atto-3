@@ -4,8 +4,8 @@ test_cases:
     BYD_STEER_WHL_ANG: 0
   response: 78B056200030000
 - expected_values:
-    BYD_STEER_WHL_ANG: -11.3
-  response: 78B05620003FF8F
+    BYD_STEER_WHL_ANG: -20.2
+  response: 78B05620003FF36
 - expected_values:
     BYD_STEER_WHL_ANG: -0.1
   response: 78B05620003FFFF
