@@ -4,8 +4,8 @@ test_cases:
     BYD_PACK_6_LOWEST_V_CELL_7E7: 3.336
   response: 7EF05620175080D
 - expected_values:
-    BYD_PACK_6_LOWEST_V_CELL_7E7: 2.886
-  response: 7EF05620175460B
+    BYD_PACK_6_LOWEST_V_CELL_7E7: 2.787
+  response: 7EF05620175E30A
 - expected_values:
     BYD_PACK_6_LOWEST_V_CELL_7E7: 3.071
   response: 7EF05620175FF0B

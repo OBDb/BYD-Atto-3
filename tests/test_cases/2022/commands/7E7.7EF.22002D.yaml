@@ -4,8 +4,8 @@ test_cases:
     BYD_HIGHEST_V_CELL_7E7: 3.33
   response: 7EF0562002D020D
 - expected_values:
-    BYD_HIGHEST_V_CELL_7E7: 2.891
-  response: 7EF0562002D4B0B
+    BYD_HIGHEST_V_CELL_7E7: 2.854
+  response: 7EF0562002D260B
 - expected_values:
-    BYD_HIGHEST_V_CELL_7E7: 3.315
-  response: 7EF0562002DF30C
+    BYD_HIGHEST_V_CELL_7E7: 3.07
+  response: 7EF0562002DFE0B

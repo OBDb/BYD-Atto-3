@@ -1,14 +1,11 @@
 command_id: 7E7.7EF.220177
 test_cases:
 - expected_values:
-    BYD_PACK_6_HIGHEST_V_CELL: 3.078
-  response: 7EF05620177060C
+    BYD_PACK_6_HIGHEST_V_CELL: 2.817
+  response: 7EF05620177010B
 - expected_values:
     BYD_PACK_6_HIGHEST_V_CELL: 3.347
   response: 7EF05620177130D
-- expected_values:
-    BYD_PACK_6_HIGHEST_V_CELL: 3.025
-  response: 7EF05620177D10B
 - expected_values:
     BYD_PACK_6_HIGHEST_V_CELL: 3.068
   response: 7EF05620177FC0B
