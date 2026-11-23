@@ -1,6 +1,9 @@
 command_id: 7E7.7EF.220012
 test_cases:
 - expected_values:
+    BYD_ACCUMULATED_DCHG_ENERGY: 10266
+  response: 7EF056200121A28
+- expected_values:
     BYD_ACCUMULATED_DCHG_ENERGY: 10146
   response: 7EF05620012A227
 - expected_values:

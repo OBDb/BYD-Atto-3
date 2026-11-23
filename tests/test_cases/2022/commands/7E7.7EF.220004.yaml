@@ -3,3 +3,6 @@ test_cases:
 - expected_values:
     BYD_TIMES_OFF_FULL_POWER: 118
   response: 7EF056200047600
+- expected_values:
+    BYD_TIMES_OFF_FULL_POWER: 120
+  response: 7EF056200047800
