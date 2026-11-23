@@ -4,5 +4,8 @@ test_cases:
     BYD_ACCUMULATED_DCHG: 25163
   response: 7EF066200104B6200
 - expected_values:
+    BYD_ACCUMULATED_DCHG: 25463
+  response: 7EF06620010776300
+- expected_values:
     BYD_ACCUMULATED_DCHG: 25245
   response: 7EF066200109D6200
